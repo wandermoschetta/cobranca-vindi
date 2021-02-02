@@ -3,7 +3,7 @@
 ### Integração de cobrança avulsa de Cartão de Crédito com a empresa [Vindi](https://vindi.com.br/)
 
 O objetivo desse projeto é enviar cobranças de cartão de crédito de forma automática,
-conforme regras estabelecidas pela [empresa](www.familiaprever.com.br).
+conforme regras estabelecidas pela [empresa](http://familiaprever.com.br).
 
 O Processo está rodando desde(01/11/2020) gerando quase 2000 cobranças mensais de alguns clientes da empresa. 
   
